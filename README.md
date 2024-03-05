@@ -1,1 +1,1 @@
-javascript:<h1>Deelnemen aan les of klas</h1>
+javascript:<h1>hoi ik ben Ave</h1>
